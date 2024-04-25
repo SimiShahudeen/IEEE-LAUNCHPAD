@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Fast learner with a strong interest in programming, aiming to become a skilled developer in the future. Seeking an entry-level position to gain experience and contribute to a team.
 
 
 ## Portfolio Highlights
@@ -15,8 +15,15 @@
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
-
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+I  held some leadership positions in my college:
+- Chairperson, IEEE IES SBC, SNIT, Kerala
+•	Preside regular meetings of the Student Branch and the Branch Executive Committee.
+•	Coordinate activities with local section and regional volunteers and communicate frequently with IEEE Student Branches.
+-Secretary - IEEE  SB , SNIT, Kerala
+•	Maintain the membership roster and committee assignments on the branch website.
+•	Complete activity reports of every event conducted and post calendar of events.
+-Campus Ambassador - TBH , Kochi, Kerala
+•	As a representative, spread awareness about the products and services among students community.
 
 #### Networking:
 
