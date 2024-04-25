@@ -1,58 +1,29 @@
-# Full Name 
-
+## Simi Shahudeen
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Fast learner with a strong interest in programming, aiming to become a skilled developer in the future. Seeking an entry-level position to gain experience and contribute to a team.
 
+#### Education:
+>Bachelor of Technology: Electronics and Communication Engineering, 
+APJ Abdul Kalam Technological University (KTU), Kerala
 
-## Portfolio Highlights
-
-### My Projects
-
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+Chairperson - IEEE IES SBC, SNIT, Kerala
+>	Preside regular meetings of the Student Branch and the Branch Executive Committee.
+>	Coordinate activities with local section and regional volunteers and communicate frequently with IEEE Student Branches.
 
-#### Networking:
+Secretary - IEEE  SB , SNIT, Kerala
+>	Maintain the membership roster and committee assignments on the branch website.
+>	Complete activity reports of every event conducted and post calendar of events.
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+Campus Ambassador - TBH , Kochi, Kerala
+>	As a representative, spread awareness about the products and services among students community.
 
-#### Career Plan:
+#### Check out
+> https://app.mulearn.org/profile/simi@mulearn)
+ LinkedIn: https://www.linkedin.com/in/simi-shahudeen-6b16b0115
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### Thoughts on Kerala's Tech Ecosystem:
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
